@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:deepskyblue;
+    font-size: 30px;
+}
+
+h2, p {
+    color: white; 
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ul, ol{
+    list-style-type: square;
+}
+
+.description {
+    color: gold;
+    font-size: 15px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients, .steps {
+    color: skyblue;
+}
+
+.recipe-list, a{
+    color:khaki;
+}
+
+.highlight{
+    background-color: rgb(255, 0, 149);
+}
