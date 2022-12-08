@@ -1,4 +1,5 @@
-The Odin Project
+Project: Landing Page from the Odin Project 
 
-In this repository contains all the projects I have done on my journey to learning web development with the Odin Project.
+Link: https://www.theodinproject.com/lessons/foundations-landing-page
 
+In this project they provided a design image and the requirements for fonts and colours for me to replicate using HTML and CSS.
