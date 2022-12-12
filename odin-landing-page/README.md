@@ -4,5 +4,5 @@ Link: https://www.theodinproject.com/lessons/foundations-landing-page
 
 In this project they provided a design image (1.png from the images folder) and the requirements for fonts and colours to make the website (2.png from the images folder) for me to recreate from scratch using HTML and CSS. 
 
-My main takeaway from this project: 
-- learning flexbox to position most of the items and containers
+What I have learnt from this project:
+- using flexbox to position most of the items and containers
