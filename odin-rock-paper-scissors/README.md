@@ -1,4 +1,4 @@
-**Project: Rock Paper Scissors from the Odin Project**
+<span style="font-size:larger;">**Project: Rock Paper Scissors from the Odin Project**</span>
 
 Link: https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors
 
