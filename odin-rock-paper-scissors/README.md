@@ -1,5 +1,7 @@
 **Project: Rock Paper Scissors from the Odin Project**
 
+Live Preview: https://htmlpreview.github.io/?https://github.com/tjch-o/the-odin-project/blob/main/odin-rock-paper-scissors/index.html
+
 Link: https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors
 
 In this project, I was tasked to create a rock paper scissors game to be played between the user and the computer. The user will get to choose what shape he / she wants to use against the computer which has its shape randomly chosen. First to 5 wins. A restart button will appear when there is a winner to allow the user to play again as many times as he / she wants.
