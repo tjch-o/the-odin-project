@@ -98,5 +98,3 @@ scissorsButton.addEventListener("click", () => {
 
 const restartButton = document.querySelector(".restart-button");
 restartButton.addEventListener("click", () => {clear();});
-
-// key lesson do use developer tools to debug even if we dont use console.log at all
