@@ -1,4 +1,4 @@
-# Project: Landing Page from the Odin Project
+# Project: Landing Page 
 
 Live Preview: https://htmlpreview.github.io/?https://github.com/tjch-o/the-odin-project/blob/main/odin-landing-page/index.html
 
