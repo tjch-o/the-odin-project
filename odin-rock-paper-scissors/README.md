@@ -9,4 +9,5 @@ In this project, I was tasked to create a rock paper scissors game to be played 
 What I have learnt from this project:
 - manipulating the DOM and the use of events (mainly clicking of the mouse)
 - my first time incorporating Javascript into my website to make it interactive
+- incorporating user input by the use of buttons
 - using Developer Tools to debug 
