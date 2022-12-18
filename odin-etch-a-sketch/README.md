@@ -1,6 +1,6 @@
 # Project: Etch-A-Sketch
 
-Live Preview:
+Live Preview: https://htmlpreview.github.io/?https://github.com/tjch-o/the-odin-project/blob/main/odin-etch-a-sketch/index.html
 
 Link to project description: https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 
@@ -25,5 +25,6 @@ the button to turn on and off grid lines as they please.
 What I have learnt from this project:
 - using CSS Grid for the first time
 - more practice with manipulating the DOM and events (using mouseover)
-- using different types of buttons such as the colour picker and range slider which accepts user input
+- using different types of buttons such as the colour picker and range slider to handle user input
+- storing user input which would then be used to run particular functions when an event is triggered
 - (not particularly coding related) the process of deciding what extra functionality I should add to my website to improve user experience 
