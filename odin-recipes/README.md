@@ -1,6 +1,6 @@
 # Project: Recipes
 
-Live Preview: 
+Live Preview: https://htmlpreview.github.io/?https://github.com/tjch-o/the-odin-project/blob/main/odin-recipes/index.html
 
 Link: https://www.theodinproject.com/lessons/foundations-recipes
 
