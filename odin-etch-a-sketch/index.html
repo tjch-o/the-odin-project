@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <link rel = "stylesheet" href = "style.css">
+        <title> Etch-A-Sketch </title>
+    </head>
+    <body>
+        <div class = "header">
+            <p> Etch-A-Sketch </p>
+        </div>
+        <div class = "buttons"> 
+            <input type = "color" id = "user-input-colour">
+
+            <div class = "change-grid-size">
+                <p class = "grid-size-text"></p>
+                <input type = "range" id = "gridsize-slider" value = "16" min = "0" max = "100">
+            </div>
+
+            <button class = "erase-button"> </button>
+            <button class = "rainbow-button"> </button>
+            <button class = "reset-button"> </button>
+            <button class = "switch-on-off-grid"> </button>
+        </div>
+
+        <div class = "wrapper-grid">
+            <div class = "grid-container">
+
+            </div>
+        </div>
+         
+        <script src = "app.js"></script>    
+    </body>
+</html>
